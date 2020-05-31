@@ -1,0 +1,33 @@
+#maindiv {
+	text-align:center;
+	margin: auto;
+	width:650px;
+	height:150px;
+	border:2px solid #5b4679;
+	border-radius: 25px;
+}
+
+#ResultSearch {
+	margin:top;
+	height:125px;	
+}
+
+#result {
+	margin:50px 100px 10px 100px;
+	
+}
+
+button {
+  z-index: 1;
+  width: 50px;
+  border: 0 none;
+  background: #ceb980;
+  cursor: pointer;
+  border-radius: 0 5px 5px 0;  
+  -webkit-transform: translate(-50px, 0);
+      -ms-transform: translate(-50px, 0);
+          transform: translate(-50px, 0);
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
